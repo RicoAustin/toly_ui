@@ -1,23 +1,11 @@
-### toly_ui
-the ui library for flutter create by toly
+## show web online :
+http://toly1994.com/ui
 
-展示网站: http://toly1994.com/ui
+## Enable Widget:
+basic:
+- [X] 链接 [TolyLink](http://toly1994.com/ui/#/widgets/basic/link) 
+- [X] 行为 [TolyAction](http://toly1994.com/ui/#/widgets/basic/action) 
 
-| 1                             | 2                             | 3                             |
-|-------------------------------|-------------------------------|-------------------------------|
-| ![](./doc/screenshot/s1.webp) | ![](./doc/screenshot/s2.webp) | ![](./doc/screenshot/s3.webp) |
-
----
-
-### 开源不易，请我喝咖啡 ~
-
-![](./doc/ewm/coffee1.webp)
-
-
-### TolyUI 模块化
-
-![](./doc/tolyui/tolyui.webp)
-
-
-#### Widget
-
+form:
+- [X] 链接 [TolyInputArea](http://toly1994.com/ui/#/widgets/form/input) 
+- [X] 选择器 [TolySelect](http://toly1994.com/ui/#/widgets/form/select) 
